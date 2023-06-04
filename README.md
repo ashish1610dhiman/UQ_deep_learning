@@ -5,7 +5,7 @@
 The codes/files accompanying the GP modelling of yield curve are given below:
 
 - [Download Yield Curve Data](download-yield-curve.ipynb)
-- [Yield curve data](download-yield-curve.ipynb)
+- [Yield curve data](yield_curve_2010_2018.csv)
 - [Modelling Yield curve with GP](gp-for-yield-curve.ipynb)
 
 ## Bayesian Regression Examples
