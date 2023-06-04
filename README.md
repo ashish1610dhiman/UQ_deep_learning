@@ -1,6 +1,13 @@
 
 # Introduction to Uncertainty Quantification for Deep Learning
 
+## Gaussian Process Regression for Yield curve
+The codes/files accompanying the GP modelling of yield curve are given below:
+
+- [Download Yield Curve Data](download-yield-curve.ipynb)
+- [Yield curve data](download-yield-curve.ipynb)
+- [Modelling Yield curve with GP](gp-for-yield-curve.ipynb)
+
 ## Bayesian Regression Examples
 
 This repository contains Jupyter Notebook files related to Bayesian regression problems on real estate dataset. These notebooks explore different techniques and approaches for Bayesian regression modeling, as given below:
